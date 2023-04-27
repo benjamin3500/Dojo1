@@ -7,10 +7,6 @@
 - Thiago Fernandez Lado
 - Josue Damacio
 
-##Alumno:
-Benjamin Andres Aguilera
-
-
 
 ## Proyecto: Semaforo
 ![Tinkercad](./img/image.png)
