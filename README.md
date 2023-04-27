@@ -1,6 +1,7 @@
 # Ejercicio Dojo 1
 
-##Alumno: Benjamin Andres Aguilera
+##Alumno:
+Benjamin Andres Aguilera
 
 ## Integrantes 
 - Benjamin Andres Aguilera
