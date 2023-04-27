@@ -71,7 +71,7 @@ void apagaLed(int led,int tiempo){
 Con estas dos funciones le indicamos por parametros a los LED cuanto tiempo deben estar prendidos y apagados. Es utilizada en el codigo principal para cumplir el funcionamiento del semaforo.
 
 ## Link al proyecto :eggplant:
-- [proyecto](https://www.tinkercad.com/things/hBh0UVomjyM-prueba-tpgrupal/editel?sharecode=E750hfyh9kLGIuqLQaVF5h5EdYSLmSpoakgl8z9V1h4)
+- [proyecto](https://www.tinkercad.com/things/lnrI4ZToYxI-ejercicio-dojo-1/editel?sharecode=hVAxrAxaheomfuiziHzFHfns5Mgm93ojojP8zHC6AII)
 
 
 
