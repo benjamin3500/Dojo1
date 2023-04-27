@@ -1,13 +1,14 @@
 # Ejercicio Dojo 1
 
-##Alumno:
-Benjamin Andres Aguilera
 
 ## Integrantes 
 - Benjamin Andres Aguilera
 - Pablo Nicolas Aguilar
 - Thiago Fernandez Lado
 - Josue Damacio
+
+##Alumno:
+Benjamin Andres Aguilera
 
 
 
